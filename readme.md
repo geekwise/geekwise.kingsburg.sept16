@@ -36,16 +36,43 @@
 
 ###Review important concepts for the day.
 
-* Introducing the `<link>` and `<meta>` tags for controlling the browser for basic `responsive` web design for mobile.
+* Introducing the `CSS` `class` tags for stacking styles in the browser.
+
+* The `responsive` viewport parameters for the `<meta>` tag.
 
 * <http://geekwise.github.io/geekwise.responsive.viewport/>
 
+<<<<<<< Updated upstream
 ### 3: Practice exercise related to concept and objective
 * Building out our basic responsive site example with our phones using the `<meta>` tag and the `<base>` tag.
  
+=======
+<<<<<<< HEAD
+##3: Practice exercise related to concept and objective
+* Working on creating a page site using the `<base>`,`<link>` and `<meta>` tags.
+* Combining styles using `CSS` `class`
+ 
+##4: Closing session and circling back to objective of the day
+* Combing `CSS` `class` styles
+* Creating an example page with the `<base>`,`<link>` and `<meta>` tags.
+* Answer questions about exercise
+* Using our site examples from <http://www.googledrive.com/host/FOLDER_URL>
+
+#Extra Reference
+## A dictionary reference for all HTML5 tags
+<http://html.geekwise.org>
+=======
+### 3: Practice exercise related to concept and objective
+* Building out our basic responsive site example with our phones using the `<meta>` tag and the `<base>` tag.
+ 
+>>>>>>> Stashed changes
 ### 4: Closing session and circling back to objective of the day
 * 
 * 
 * 
 * 
 ---
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
