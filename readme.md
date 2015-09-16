@@ -22,7 +22,7 @@
 	*  Relative Size: (large)
 	* Percentage: (200%)
 
-### _A few reminders about nameing an `id` and `class`_
+### _A few reminders about naming an `id` and `class`_
 
 
 ####Naming a `CSS` `ID` and `CLASS`:
