@@ -32,7 +32,7 @@
 * The difference between a `class` versus an `id` is that an `ID` `#id_name`selector is for something specific. A `CLASS` `.class_name` is reusable
 
 
-##2:Share what you will learn today
+##2: Share what you will learn today
 
 ###Review important concepts for the day.
 
